@@ -1,103 +1,166 @@
-# 👋 Привет, я **Ilya_Krossov**
+<div align="center">
 
-> 🎓 Студент 2 курса по направлению **«Разработка программного обеспечения»**
-> 🛡️ Будущий специалист в области **кибербезопасности**
-> ⚙️ Люблю бэкенд, скрипты и логику больше, чем «рисовать кнопки»
+# 👋 Hi, I'm Ilya_Krossov
 
----
+### Python Backend Developer • Automation • AI • Cybersecurity
 
-## 🧠 Немного обо мне
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Jarvis...;Backend+Developer;Automation+Enthusiast;Learning+Kotlin;Future+Cybersecurity+Specialist" />
 
-Меня зовут **Илья**, в сети чаще всего использую ник **Ilya_Krossov**.
-Сейчас я учусь на 2 курсе, активно беру **дополнительные задания**, параллельно изучаю программирование самостоятельно: платные и бесплатные курсы, практика, эксперименты и свои мини‑проекты.
+<br>
 
-Моя цель — **глубоко разбираться в том, как работают системы**, находить уязвимости, автоматизировать рутину и писать понятный, логичный код.
-Я не фанат визуального дизайна, зато люблю **чистые скрипты, минимальные интерфейсы и реальную пользу**.
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/I_Myhich)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://krossovkaencore.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krossovka160609@gmail.com)
 
----
-
-## 🛠️ Стек технологий
-
-### 💻 Языки программирования
-
-| Язык          | Уровень             |
-| ------------- | ------------------- |
-| 🐍 Python     | уверенно            |
-| ☕ Kotlin     | база                |
-| ⚙️ C++        | база                |
-| 🌙 Lua        | уверенно            |
-| 🌐 HTML       | уверенно            |
-| 🎨 CSS        | в процессе прокачки |
-| 📜 JavaScript | начинаю             |
-| 🐘 PHP        | минимально          |
+</div>
 
 ---
 
-### 🔧 Технологии и инструменты
-
-* Git / GitHub
-* Работа с API
-* HTML / CSS
-* AI / нейросети
-* Windows + Bash
-* Консольные утилиты и скрипты
-* ещё за писю трогал Linux
-
----
-
-## 🚀 Проекты
-
-⚠️ **Крупных завершённых проектов пока немного**, но я активно работаю над этим.
-
-* 🤖 **Jarvis** — экспериментальный проект персонального ассистента (в будущем с собственным ИИ)
-* 💬 **Собственный мессенджер** — проект в стадии разработки и был продемонстрирован в качестве индивидуального проекта
-* 🧩 Множество **мелких проектов и скриптов**, написанных до колледжа и во время обучения
-
-👉 Сейчас основной фокус — **накопление качественных проектов для портфолио и обучение**
-
----
-
-## 🎯 Цели
-
-* 🚀 Научиться **быстро делать аккуратные сайты** (нужно больше практики с CSS)
-* 🛡️ Развиваться в **backend и кибербезопасности**
-* ⚙️ Писать полезные инструменты, автоматизацию и сервисы
-* 🌍 В перспективе — **фриланс или собственные проекты**
-
----
-
-## 📚 Сейчас изучаю
-
-* JavaScript (для расширения возможностей в web)
-* Углублённый Python
-* Основы кибербезопасности
-* Архитектуру приложений
-
----
-
-## 📬 Контакты
-
-* 📱 Telegram: [@I_Myhich](https://t.me/I_Myhich)
-* 📧 Email: **[krossovka160609@gmail.com](mailto:krossovka160609@gmail.com)**
-* 🌐 Сайт-портфолио: [krossovkaencore.github.io/Portfolio](https://krossovkaencore.github.io/Portfolio/)
-
----
-
-## ⚡ Немного мотивации
+# 🚀 About Me
 
 ```text
-Обучение программированию не может научить быть экспертом, также как и изучение кистей и красок не может превратить кого-либо в художника.
-— Eric S. Raymond
+> booting...
 
-Для меня долгое время было загадкой, как что-то очень дорогое и технологичное может быть столь бесполезным. И вскоре я осознал, что компьютер — это глупая машина, обладающая способностями выполнять невероятно умные вещи, тогда как программисты — это умные люди, у которых талант делать невероятные глупости. Короче, они нашли друг друга.
-— Bill Bryson
+Developer:
+Ilya_Krossov
 
-В теории, теория и практика неразделимы. На практике это не так.
-— Yoggi Berra
+Role:
+Python Backend Developer
+
+Status:
+Building Jarvis...
+
+Ready.
 ```
 
-> 📌 Репозиторий живой — будет обновляться по мере роста навыков и проектов
+I'm a **17-year-old Software Development student** passionate about building useful software.
+
+Instead of creating fancy interfaces, I enjoy writing backend logic, automation tools, working with APIs, and experimenting with local AI models.
+
+Current interests:
+
+- 🐍 Python
+- ⚙️ Backend Development
+- 🤖 AI & Local LLM
+- 🔌 REST API
+- 🖥️ Automation
+- 🛡️ Cybersecurity
 
 ---
 
-⭐ Если ты студент, рекрутер или просто интересуешься — добро пожаловать в профиль
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Piper](https://img.shields.io/badge/Piper_TTS-8B5CF6?style=for-the-badge)
+
+---
+
+# 🤖 Current Project
+
+## Jarvis
+
+A personal AI assistant written in Python.
+
+### Planned Features
+
+- 🎙 Voice Assistant
+
+- 🧠 Local LLM
+
+- ⚡ Automation
+
+- 🌐 API Integration
+
+- 💾 Memory System
+
+- 🖥 Desktop Control
+
+- 📂 File Management
+
+- 🧩 Plugin System
+
+Repository:
+
+https://github.com/krossovkaEncore/Jarvis
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Kotlin
+
+- 📜 JavaScript
+
+- 🏗 Software Architecture
+
+- 🛡️ Cybersecurity
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=krossovkaEncore&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossovkaEncore&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=krossovkaEncore&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+- 🚀 Become a Backend Developer
+
+- ☕ Master Kotlin
+
+- 🤖 Build useful AI applications
+
+- 🛡 Work in Cybersecurity
+
+- 🌍 Launch my own products
+
+---
+
+# 💬 Favorite Quote
+
+> "In theory there is no difference between theory and practice.
+> In practice there is."
+
+— Yogi Berra
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
