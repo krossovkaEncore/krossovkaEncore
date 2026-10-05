@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ilya_Krossov
+# 👋 Hi, I'm F1zz
 
 ### Python Backend Developer • Automation • AI • Cybersecurity
 
