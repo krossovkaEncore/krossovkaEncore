@@ -150,7 +150,7 @@ src="https://streak-stats.demolab.com?user=krossovkaEncore&theme=tokyonight&hide
 
 ## 📊 GitHub Statistics
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krossovkaEncore&theme=react-dark)
 
 <p align="center">
   <sub>terminal is open • development in progress</sub>
