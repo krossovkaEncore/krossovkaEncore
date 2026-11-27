@@ -2,8 +2,6 @@
 
 <img src="assets/banner.png" width="100%" alt="F1zz Soft Cyber Banner"/>
 
-### BUILDING • LEARNING • EXPERIMENTING
-
 *Developer · Automation Enthusiast · Future Cybersecurity Specialist*
 
 [![Telegram](https://img.shields.io/badge/Telegram-55B8F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/I_Myhich)
