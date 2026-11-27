@@ -2,8 +2,6 @@
 
 <img src="assets/banner.png" width="100%" alt="F1zz Soft Cyber Banner"/>
 
-# F1zz
-
 ### BUILDING • LEARNING • EXPERIMENTING
 
 *Developer · Automation Enthusiast · Future Cybersecurity Specialist*
