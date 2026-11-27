@@ -12,13 +12,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://krossovkaencore.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krossovka160609@gmail.com)
 
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="justify">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=1AF700&multiline=true&height=400&lines=%E2%96%88%E2%96%92%E2%96%91+system+initialization+.+.+.;%E2%96%92%E2%96%88%E2%96%92+loading+modules+.+.+.;%E2%96%92%E2%96%92%E2%96%88+starting+kernel+.+.+.;%E2%96%88%E2%96%92%E2%96%91+system+ready+.%3B+;%3Buser%3A+F1zz%3Bfield%3A+software+development%3Bfocus%3A+cybersecurity%3Bstatus%3A+building+and+learning%3Bmode%3A+terminal%3B+;%3BTECH+STACK%3BPython+%7C+Rust+%7C+Kotlin%3BGit+%7C+Ollama+%7C+SQLite%3B+;%3BPROJECTS%3BGlazBot+%7C+Xcord%3B+;%3Bready+for+the+next+challenge)
+# 🚀 About Me
 
 I'm a **17-year-old Software Development student** passionate about building useful software.
 
@@ -33,58 +39,13 @@ Current interests:
 - 🖥️ Automation
 - 🛡️ Cybersecurity
 
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Piper](https://img.shields.io/badge/Piper_TTS-8B5CF6?style=for-the-badge)
+</div>
 
 ---
 
-# 🤖 Current Project
+# Current Project
 
-## Jarvis
-
-A personal AI assistant written in Python.
-
-### Planned Features
-
-- 🎙 Voice Assistant
-
-- 🧠 Local LLM
-
-- ⚡ Automation
-
-- 🌐 API Integration
-
-- 💾 Memory System
-
-- 🖥 Desktop Control
-
-- 📂 File Management
-
-- 🧩 Plugin System
-
-Repository:
-
-https://github.com/krossovkaEncore/Jarvis
+empty
 
 ---
 
@@ -138,7 +99,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossovkaEnc
 <p align="center">
   <sub>terminal is open • development in progress</sub>
 </p>
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
