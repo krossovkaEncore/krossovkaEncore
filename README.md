@@ -104,22 +104,20 @@ https://github.com/krossovkaEncore/Jarvis
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=krossovkaEncore&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossovkaEncore&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=krossovkaEncore&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=krossovkaEncore&theme=tokyonight&hide_border=true"/><img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossovkaEncore&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krossovkaEncore&theme=react-dark)
 
 ---
 
@@ -136,21 +134,6 @@ src="https://streak-stats.demolab.com?user=krossovkaEncore&theme=tokyonight&hide
 - 🌍 Launch my own products
 
 ---
-
-# 💬 Favorite Quote
-
-> "In theory there is no difference between theory and practice.
-> In practice there is."
-
-— Yogi Berra
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krossovkaEncore&theme=react-dark)
 
 <p align="center">
   <sub>terminal is open • development in progress</sub>
